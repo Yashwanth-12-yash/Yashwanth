@@ -195,13 +195,18 @@ A supervised classification pipeline that predicts diabetes from patient health 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-12-yash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-12-yash&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-12-yash&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashwanth-12-yash&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-12-yash&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-12-yash&theme=radical&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-12-yash&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth-12-yash&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
+
+</div>
 
 ---
 
